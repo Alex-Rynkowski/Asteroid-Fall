@@ -43,12 +43,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc75066c284298a4ebbbf11322b60517, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AsteroidSmall: {fileID: 7362975243573351671, guid: 1e0807fd9f428134ca531f850f361141,
-    type: 3}
-  AsteroidMedium: {fileID: 5981123441433749963, guid: 51251e402e219c547877cc549679f297,
-    type: 3}
-  AsteroidLarge: {fileID: 4581436443176763225, guid: 4362f49e8cb431c4e80674436533c49f,
-    type: 3}
+  asteroids:
+  - {fileID: 7362975243573351671, guid: 1e0807fd9f428134ca531f850f361141, type: 3}
+  - {fileID: 5981123441433749963, guid: 51251e402e219c547877cc549679f297, type: 3}
+  - {fileID: 4581436443176763225, guid: 4362f49e8cb431c4e80674436533c49f, type: 3}
   xSpawnDistance: 8.5
   minSpawnDelay: 0.2
   maxSpawnDelay: 1.3
