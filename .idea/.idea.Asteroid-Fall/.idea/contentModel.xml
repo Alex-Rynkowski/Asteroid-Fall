@@ -15,6 +15,7 @@
           <e p="MoveMent" t="Include">
             <e p="Joystick.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
+            <e p="Portal.cs" t="Include" />
           </e>
         </e>
       </e>
